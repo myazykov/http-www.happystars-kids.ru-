@@ -1,0 +1,57 @@
+
+.stars	{
+	background-image: url('http://m-files.cdnvideo.ru/lpfile/4/6/7/4678f1299165c1a2d4b1bbbfeb7fbb9a.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.img-stars{
+	background-image: url('http://m-files.cdnvideo.ru/lpfile/2/2/d/22daaeca7ab9a20f3b66c247d6aaa9be/-/scale/x1/-/crop/0x0x300x179/-/resize/296/-/quality/85/file.png');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 22vh;
+}
+
+.rw1{
+	height: 15rem;
+}
+.bsc{
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 70vh;
+}
+.img1{
+	background-image: url(img/2.jpg);
+	height: 40vh;
+}
+.txt1{
+	background-color: black;
+}
+.rw2{
+	height: 5rem;
+}
+.img2{
+	background-image: url(img/3.jpg);
+}
+.img3{
+	background-image: url(img/4.jpg);
+}
+.img4{
+	background-image: url(img/5.jpg);
+}
+.vsepr{
+	background-color: grey;
+}
+.promo{
+	height: 10vh;
+}
+footer{
+	height: 15vh;
+	background-image: url('http://m-files.cdnvideo.ru/lpfile/4/6/7/4678f1299165c1a2d4b1bbbfeb7fbb9a.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
